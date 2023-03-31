@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/verac/Downloads/antlr-4.11.1-complete.jar" sourcepath="C:/Users/verac/AppData/Local/Temp/.org.sf.feeling.decompiler1671275893844/source/antlr4-4.11.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
